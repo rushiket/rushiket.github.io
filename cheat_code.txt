@@ -1,0 +1,3 @@
+#local sever 
+bundle exec jekyll serve
+
